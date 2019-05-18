@@ -1,0 +1,24 @@
+.mainDiv {
+  position: absolute;
+  /* width: 200px; */
+  left: 40%;
+  top: 20%;
+  background-color: yellowgreen;
+}
+
+.mainDiv h2 {
+  color: #428cf4;
+}
+
+.mainDiv input {
+  position: relative;
+  left: 15%;
+}
+
+.dropDownDiv {
+  border: solid 1px black;
+  color: #428cf4;
+  width: auto;
+  font-size: 20px;
+  word-wrap: break-word;
+}
